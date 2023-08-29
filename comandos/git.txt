@@ -1,0 +1,26 @@
+Alguns comandos do Git usados para subir os arquivos do projeto para este repositório:
+
+Verifica a branch que está sendo usada atualmente:
+git branch
+
+Deleta uma branch pelo nome:
+git branch -D nome_branch
+
+Muda da branch atual para a branch que você informar pelo nome:
+git checkout -b develop
+
+Verifica o status de todas as mudanças nos arquivos da branch atual:
+git status
+
+Adicione todas as mudanças na esteira do commit:
+git add .
+
+Também é possível adicionar cada arquivo individualmente. Ex:
+git add comandos/git.txt
+
+Executa o commit das mudanças da branch atual na esteira:
+git commit -m "Mensagem sobre o commit"
+
+Faz o envio das mudanças commitadas para o repositório:
+git push
+
