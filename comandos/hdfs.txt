@@ -1,0 +1,8 @@
+No projeto foram utilizados alguns comandos do HDFS:
+
+ls : Listar o conteúdo de um diretório (arquivos e pastas):
+hdfs dfs -ls path_do_diretorio
+
+put : Enviar um arquivo no servidor atual para o HDFS:
+hdfs dfs -put path_origem/arquivo_origem path_destino/arquivo_destino
+
