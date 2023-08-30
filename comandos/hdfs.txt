@@ -1,8 +1,11 @@
 No projeto foram utilizados alguns comandos do HDFS:
 
+mkdir: Cria uma pasta em um diretório do HDFS:
+hdfs dfs -mkdir /user/vanderlei_junior
+
 ls : Listar o conteúdo de um diretório (arquivos e pastas):
 hdfs dfs -ls path_do_diretorio
+hdfs dfs -ls /user/hive/warehouse
 
 put : Enviar um arquivo no servidor atual para o HDFS:
 hdfs dfs -put path_origem/arquivo_origem path_destino/arquivo_destino
-
