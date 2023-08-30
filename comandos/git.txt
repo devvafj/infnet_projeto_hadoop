@@ -6,7 +6,7 @@ git branch
 Deleta uma branch pelo nome:
 git branch -D nome_branch
 
-Muda da branch atual para a branch que você informar pelo nome:
+Cria uma nova branch, se ela já não existir e muda da branch atual para a branch nova:
 git checkout -b develop
 
 Verifica o status de todas as mudanças nos arquivos da branch atual:
@@ -23,4 +23,7 @@ git commit -m "Mensagem sobre o commit"
 
 Faz o envio das mudanças commitadas para o repositório:
 git push
+
+Faz o envio das mudanças commitadas para o repositório remoto, se a branch atual não existir lá ainda:
+git push --set-upstream origin develop
 

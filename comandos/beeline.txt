@@ -1,0 +1,41 @@
+Alguns comandos do Beeline que foram utilizados durante o projeto:
+
+Conectar ao servidor HiveServer2 através do client do Beeline:
+beeline -u jdbc:hive2://localhost:10000/default -n mitbigdata2023@cluster-a949 -m -d org.apache.hive.jdbc.HiveDriver
+
+Lista todos os databases criados atualmente no Hive:
+SHOW DATABASES;
+
+Muda o database atual que estamos mexendo para o database informado pelo nome:
+USE nome_database;
+
+Cria uma tabela no database atual:
+CREATE TABLE nome_tabela (coluna1 tipo_coluna1, coluna2 tipo_coluna2, ... colunaN, tipo_colunaN);
+
+Também é possível especificar o database antes do nome da tabela:
+CREATE TABLE nome_database . nome_tabela (coluna1 tipo_coluna1, coluna2 tipo_coluna2, ... colunaN, tipo_colunaN);
+
+Prática comum: Podemos utilizar as palavras chaves IF NOT EXISTS junto do comando CREATE TABLE para 
+somente tentar criar a tabela se ela já não existir, evitando também a mensagem de erro quando a mesma já existe. Ex:
+
+CREATE TABLE IF NOT EXISTS nome_tabela (coluna1 tipo_coluna1, ...);
+
+Lista todas as tabelas do database atual:
+SHOW TABLES;
+
+Exclui uma tabela do database atual:
+DROP TABLE nome_tabela;
+
+Outra prática comum: Podemos utilizar as palavras chaves IF EXISTS junto do comando DROP TABLE para 
+somente tentar excluir a tabela se ela existir, evitando também a mensagem de erro quando a mesma não existe. Ex:
+
+Executa uma consulta em uma ou mais tabelas, dependendo da sua query:
+
+Consulta todas as colunas de uma tabela (informar nome após o FROM)
+SELECT * FROM nome_tabela;
+
+Consulta algumas colunas de uma tabela (informar nome após o FROM)
+SELECT coluna1, coluna2 FROM nome_tabela;
+
+Descreve as propriedades de uma tabela do database atual de maneira formatada:
+DESCRIBE FORMATTED nome_tabela;
