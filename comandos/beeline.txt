@@ -1,7 +1,7 @@
 Alguns comandos do Beeline que foram utilizados durante o projeto:
 
 Conectar ao servidor HiveServer2 através do client do Beeline:
-beeline -u jdbc:hive2://localhost:10000/default -n mitbigdata2023@cluster-a949 -m -d org.apache.hive.jdbc.HiveDriver
+beeline -u jdbc:hive2://localhost:10000/default -n vanderlei_junior@cluster-de38-m -d org.apache.hive.jdbc.HiveDriver
 
 Lista todos os databases criados atualmente no Hive:
 SHOW DATABASES;

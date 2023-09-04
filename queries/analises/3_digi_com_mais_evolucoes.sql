@@ -1,0 +1,2 @@
+-- Qual Digimon possui mais evoluções diferentes?
+SELECT Digivolves_from, count(*) AS qt_digivolutions FROM projeto_db.stg_digivolutions GROUP BY Digivolves_from ORDER BY qt_digivolutions DESC LIMIT 1;
