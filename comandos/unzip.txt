@@ -2,8 +2,3 @@ Utilizar o comando unzip para descompactar arquivos zip em um diretório:
 unzip nome_arquivo.zip -d path_destino
 
 Se o path de destino não for informado, será considerado o diretório atual na extração:
-
-No projeto:
-unzip spotify_albums.zip
-unzip spotify_artists.zip
-unzip spotify_tracks.zip

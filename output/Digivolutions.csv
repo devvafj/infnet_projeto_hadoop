@@ -1,0 +1,996 @@
+1.0;Kuramon;Tsumemon
+1.0;Kuramon;Pagumon
+1.0;Kuramon;Arcadiamon In-Tr.
+2.0;Pabumon;Tanemon
+2.0;Pabumon;Yokomon
+2.0;Pabumon;Motimon
+3.0;Punimon;Tsunomon
+3.0;Punimon;Nyaromon
+4.0;Botamon;Koromon
+4.0;Botamon;Wanyamon
+5.0;Poyomon;Tokomon
+5.0;Poyomon;Bukamon
+6.0;Arcadiamon In-Tr.;Arcadiamon Rookie
+7.0;Koromon;Agumon
+7.0;Koromon;Guilmon
+7.0;Koromon;ToyAgumon
+7.0;Koromon;Hackmon
+7.0;Koromon;Dracomon
+7.0;Koromon;Shoutmon
+8.0;Tanemon;Lalamon
+8.0;Tanemon;Palmon
+8.0;Tanemon;Renamon
+8.0;Tanemon;FanBeemon
+9.0;Tsunomon;Gabumon
+9.0;Tsunomon;Gabumon (Blk)
+9.0;Tsunomon;Goblimon
+9.0;Tsunomon;Veemon
+9.0;Tsunomon;Zubamon
+9.0;Tsunomon;Monodramon
+10.0;Tsumemon;Agumon (Blk)
+10.0;Tsumemon;Keramon
+10.0;Tsumemon;DemiDevimon
+10.0;Tsumemon;Dracmon
+11.0;Tokomon;Patamon
+11.0;Tokomon;Falcomon
+11.0;Tokomon;Hawkmon
+11.0;Tokomon;Lucemon
+11.0;Tokomon;Sistermon Blanc
+12.0;Nyaromon;Armadillomon
+12.0;Nyaromon;Terriermon
+12.0;Nyaromon;Salamon
+12.0;Nyaromon;Lunamon
+13.0;Pagumon;Impmon
+13.0;Pagumon;Gazimon
+13.0;Pagumon;Lopmon
+13.0;Pagumon;Chuumon
+14.0;Yokomon;Elecmon
+14.0;Yokomon;Biyomon
+14.0;Yokomon;Wormmon
+14.0;Yokomon;Mushroomon
+15.0;Bukamon;Otamamon
+15.0;Bukamon;Gomamon
+15.0;Bukamon;Syakomon
+15.0;Bukamon;Betamon
+16.0;Motimon;Gotsumon
+16.0;Motimon;Solarmon
+16.0;Motimon;Tentomon
+16.0;Motimon;Hagurumon
+17.0;Wanyamon;Gaomon
+17.0;Wanyamon;Kudamon
+17.0;Wanyamon;Dorumon
+17.0;Wanyamon;Ryudamon
+18.0;Agumon;Greymon
+18.0;Agumon;GeoGreymon
+18.0;Agumon;Sukamon
+18.0;Agumon;Tyrannomon
+18.0;Agumon;Meramon
+18.0;Agumon;Agunimon
+19.0;Agumon (Blk);Growlmon
+19.0;Agumon (Blk);Greymon (Blue)
+19.0;Agumon (Blk);Cyclonemon
+19.0;Agumon (Blk);Tankmon
+19.0;Agumon (Blk);Tyrannomon
+19.0;Agumon (Blk);Monochromon
+20.0;Arcadiamon Rookie;Arcadiamon Champion
+20.0;Arcadiamon Rookie;Kurisarimon
+20.0;Arcadiamon Rookie;Leomon
+21.0;Armadillomon;Ankylomon
+21.0;Armadillomon;Geremon
+21.0;Armadillomon;GoldNumemon
+21.0;Armadillomon;Cyclonemon
+21.0;Armadillomon;Tankmon
+21.0;Armadillomon;Golemon
+22.0;Impmon;IceDevimon
+22.0;Impmon;Wizardmon
+22.0;Impmon;Ogremon
+22.0;Impmon;Socerimon
+22.0;Impmon;Bakemon
+22.0;Impmon;BlackGatomon
+23.0;Elecmon;Garurumon
+23.0;Elecmon;Garurumon (Blk)
+23.0;Elecmon;Geremon
+23.0;Elecmon;Sukamon
+23.0;Elecmon;Nanimon
+23.0;Elecmon;Leomon
+24.0;Otamamon;ShellNumemon
+24.0;Otamamon;Gekomon
+24.0;Otamamon;Seadramon
+24.0;Otamamon;Numemon
+24.0;Otamamon;Coelamon
+24.0;Otamamon;Raremon
+25.0;Gaomon;Ogremon
+25.0;Gaomon;GaoGamon
+25.0;Gaomon;Gargomon
+25.0;Gaomon;Togemon
+25.0;Gaomon;Leomon
+25.0;Gaomon;Sangloupmon
+26.0;Gazimon;GaoGamon
+26.0;Gazimon;Garurumon (Blk)
+26.0;Gazimon;Kurisarimon
+26.0;Gazimon;Dorugamon
+26.0;Gazimon;Nanimon
+26.0;Gazimon;Leomon
+27.0;Gabumon;Garurumon
+27.0;Gabumon;Dorugamon
+27.0;Gabumon;Numemon
+27.0;Gabumon;Veedramon
+27.0;Gabumon;Frigimon
+27.0;Gabumon;Lobomon
+28.0;Gabumon (Blk);Garurumon (Blk)
+28.0;Gabumon (Blk);Vegiemon
+28.0;Gabumon (Blk);Frigimon
+28.0;Gabumon (Blk);Reppamon
+28.0;Gabumon (Blk);Raremon
+29.0;Guilmon;GeoGreymon
+29.0;Guilmon;Growlmon
+29.0;Guilmon;Greymon (Blue)
+29.0;Guilmon;Tyrannomon
+29.0;Guilmon;Meramon
+29.0;Guilmon;Agunimon
+30.0;Kudamon;Angemon
+30.0;Kudamon;GoldNumemon
+30.0;Kudamon;Peckmon
+30.0;Kudamon;Reppamon
+30.0;Kudamon;Lobomon
+31.0;Keramon;Wizardmon
+31.0;Keramon;Kurisarimon
+31.0;Keramon;Bakemon
+31.0;Keramon;PlatinumSukamon
+31.0;Keramon;Arcadiamon Champion
+32.0;Gotsumon;Ankylomon
+32.0;Gotsumon;Clockmon
+32.0;Gotsumon;Starmon
+32.0;Gotsumon;Tankmon
+32.0;Gotsumon;Icemon
+32.0;Gotsumon;Golemon
+33.0;Goblimon;Ogremon
+33.0;Goblimon;GaoGamon
+33.0;Goblimon;Growlmon
+33.0;Goblimon;Greymon (Blue)
+33.0;Goblimon;Nanimon
+33.0;Goblimon;Coredramon (Green)
+34.0;Gomamon;Ankylomon
+34.0;Gomamon;Ikkakumon
+34.0;Gomamon;Socerimon
+34.0;Gomamon;Frigimon
+34.0;Gomamon;Icemon
+34.0;Gomamon;Strikedramon
+35.0;Syakomon;Ikkakumon
+35.0;Syakomon;ShellNumemon
+35.0;Syakomon;Gekomon
+35.0;Syakomon;Seadramon
+35.0;Syakomon;Coelamon
+36.0;Zubamon;Zubaeagermon
+36.0;Zubamon;BaoHuckmon
+36.0;Zubamon;GoldNumemon
+36.0;Zubamon;Ginryumon
+37.0;Solarmon;Clockmon
+37.0;Solarmon;Geremon
+37.0;Solarmon;Starmon
+37.0;Solarmon;Meramon
+37.0;Solarmon;Guardromon (Gold)
+37.0;Solarmon;Golemon
+38.0;Chuumon;Raremon
+38.0;Chuumon;Sukamon
+38.0;Chuumon;Nanimon
+38.0;Chuumon;BlackGatomon
+39.0;Terriermon;Gargomon
+39.0;Terriermon;Ikkakumon
+39.0;Terriermon;Gatomon
+39.0;Terriermon;Rapidmon (Armor)
+39.0;Terriermon;Unimon
+40.0;Tentomon;Kabuterimon
+40.0;Tentomon;Kuwagamon
+40.0;Tentomon;Sunflowmon
+40.0;Tentomon;Stingmon
+40.0;Tentomon;Waspmon
+41.0;ToyAgumon;Clockmon
+41.0;ToyAgumon;Guardromon
+41.0;ToyAgumon;Greymon
+41.0;ToyAgumon;Sukamon
+41.0;ToyAgumon;Starmon
+41.0;ToyAgumon;Guardromon (Gold)
+42.0;Dracmon;Arcadiamon Champion
+42.0;Dracmon;Sangloupmon
+42.0;Dracmon;Raremon
+42.0;Dracmon;Sistermon Ciel
+42.0;Dracmon;Devimon
+43.0;Dracomon;Coredramon (Blue)
+43.0;Dracomon;Coredramon (Green)
+43.0;Dracomon;Veedramon
+43.0;Dracomon;Ginryumon
+44.0;Dorumon;Guardromon
+44.0;Dorumon;Cyclonemon
+44.0;Dorumon;Dorugamon
+44.0;Dorumon;Waspmon
+44.0;Dorumon;Raptordramon
+45.0;Hagurumon;Guardromon
+45.0;Hagurumon;Clockmon
+45.0;Hagurumon;GoldNumemon
+45.0;Hagurumon;Starmon
+45.0;Hagurumon;PlatinumSukamon
+46.0;Patamon;ExVeemon
+46.0;Patamon;Angemon
+46.0;Patamon;Gatomon
+46.0;Patamon;Birdramon
+46.0;Patamon;Reppamon
+46.0;Patamon;Unimon
+47.0;Hackmon;Greymon
+47.0;Hackmon;GeoGreymon
+47.0;Hackmon;PlatinumSukamon
+47.0;Hackmon;Zubaeagermon
+47.0;Hackmon;BaoHuckmon
+47.0;Hackmon;Monochromon
+48.0;Palmon;Woodmon
+48.0;Palmon;Kuwagamon
+48.0;Palmon;Sunflowmon
+48.0;Palmon;Togemon
+48.0;Palmon;Vegiemon
+48.0;Palmon;MudFrigimon
+49.0;DemiDevimon;IceDevimon
+49.0;DemiDevimon;Kyubimon
+49.0;DemiDevimon;Kurisarimon
+49.0;DemiDevimon;Devimon
+49.0;DemiDevimon;Bakemon
+50.0;Biyomon;Aquilamon
+50.0;Biyomon;Kabuterimon
+50.0;Biyomon;Kyubimon
+50.0;Biyomon;Birdramon
+50.0;Biyomon;Airdramon
+51.0;Falcomon;Aquilamon
+51.0;Falcomon;ExVeemon
+51.0;Falcomon;Stingmon
+51.0;Falcomon;Peckmon
+52.0;FanBeemon;Guardromon (Gold)
+52.0;FanBeemon;Raptordramon
+52.0;FanBeemon;Stingmon
+52.0;FanBeemon;Waspmon
+52.0;FanBeemon;Togemon
+53.0;Veemon;ExVeemon
+53.0;Veemon;Veedramon
+53.0;Veemon;Flamedramon
+53.0;Veemon;Magnamon
+53.0;Veemon;Lobomon
+53.0;Veemon;Strikedramon
+54.0;Salamon;Socerimon
+54.0;Salamon;Gatomon
+54.0;Salamon;Veedramon
+54.0;Salamon;Frigimon
+54.0;Salamon;Reppamon
+54.0;Salamon;BaoHuckmon
+55.0;Betamon;ShellNumemon
+55.0;Betamon;Gekomon
+55.0;Betamon;Seadramon
+55.0;Betamon;Numemon
+55.0;Betamon;Vegiemon
+55.0;Betamon;Airdramon
+56.0;Hawkmon;Aquilamon
+56.0;Hawkmon;Birdramon
+56.0;Hawkmon;Peckmon
+56.0;Hawkmon;Meramon
+56.0;Hawkmon;Airdramon
+57.0;Mushroomon;MudFrigimon
+57.0;Mushroomon;Woodmon
+57.0;Mushroomon;Sunflowmon
+57.0;Mushroomon;Vegiemon
+58.0;Monodramon;Coredramon (Blue)
+58.0;Monodramon;Strikedramon
+58.0;Monodramon;Raptordramon
+58.0;Monodramon;Kurisarimon
+58.0;Monodramon;Dorugamon
+59.0;Lalamon;Woodmon
+59.0;Lalamon;Sunflowmon
+59.0;Lalamon;Togemon
+59.0;Lalamon;Vegiemon
+60.0;Lucemon;Angemon
+60.0;Lucemon;Devimon
+60.0;Lucemon;Lucemon FM
+61.0;Lunamon;Sangloupmon
+61.0;Lunamon;Lekismon
+61.0;Lunamon;Sistermon Ciel
+61.0;Lunamon;Gatomon
+62.0;Renamon;Woodmon
+62.0;Renamon;Garurumon
+62.0;Renamon;Kyubimon
+62.0;Renamon;BlackGatomon
+62.0;Renamon;Turuiemon
+62.0;Renamon;Lekismon
+63.0;Lopmon;Wizardmon
+63.0;Lopmon;Gargomon
+63.0;Lopmon;Devimon
+63.0;Lopmon;BlackGatomon
+63.0;Lopmon;MudFrigimon
+63.0;Lopmon;Turuiemon
+64.0;Wormmon;IceDevimon
+64.0;Wormmon;Kabuterimon
+64.0;Wormmon;Kuwagamon
+64.0;Wormmon;Stingmon
+64.0;Wormmon;Waspmon
+64.0;Wormmon;Hudiemon
+65.0;IceDevimon;Myotismon
+65.0;IceDevimon;Cherrymon
+65.0;IceDevimon;LadyDevimon
+65.0;IceDevimon;Arcadiamon Ultimate
+65.0;IceDevimon;Dragomon
+66.0;Icemon;Meteormon
+66.0;Icemon;Panjyamon
+66.0;Icemon;Zudomon
+67.0;Aquilamon;AeroVeedramon
+67.0;Aquilamon;Garudamon
+67.0;Aquilamon;Silphymon
+67.0;Aquilamon;Crowmon
+67.0;Aquilamon;HippoGryphonmon
+68.0;Agunimon;BurningGreymon
+68.0;Agunimon;Matadormon
+68.0;Agunimon;SkullMeramon
+68.0;Agunimon;RizeGreymon
+69.0;Arcadiamon Champion;Arcadiamon Ultimate
+69.0;Arcadiamon Champion;SkullSatamon
+69.0;Arcadiamon Champion;Infermon
+70.0;Ankylomon;Meteormon
+70.0;Ankylomon;Shakkoumon
+70.0;Ankylomon;SkullGreymon
+70.0;Ankylomon;MagnaAngemon
+70.0;Ankylomon;Groundramon
+71.0;Ikkakumon;Zudomon
+71.0;Ikkakumon;Whamon
+71.0;Ikkakumon;MachGaogamon
+71.0;Ikkakumon;Triceramon
+72.0;Wizardmon;Myotismon
+72.0;Wizardmon;SkullMeramon
+72.0;Wizardmon;Wisemon
+72.0;Wizardmon;Phantomon
+73.0;Lobomon;KendoGarurumon
+73.0;Lobomon;Knightmon
+73.0;Lobomon;WereGarurumon
+74.0;Woodmon;Cherrymon
+74.0;Woodmon;Taomon
+74.0;Woodmon;Pumpkinmon
+75.0;Airdramon;Wingdramon
+75.0;Airdramon;MegaSeadramon
+75.0;Airdramon;Megadramon
+75.0;Airdramon;MetalGreymon
+76.0;ExVeemon;Paildramon
+76.0;ExVeemon;MagnaAngemon
+76.0;ExVeemon;RizeGreymon
+76.0;ExVeemon;Wingdramon
+76.0;ExVeemon;Dinobeemon
+77.0;Angemon;Garudamon
+77.0;Angemon;Shakkoumon
+77.0;Angemon;MagnaAngemon
+77.0;Angemon;SaviorHuckmon
+77.0;Angemon;HippoGryphonmon
+78.0;Ogremon;Digitamamon
+78.0;Ogremon;SkullMeramon
+78.0;Ogremon;WereGarurumon
+78.0;Ogremon;SkullSatamon
+79.0;Guardromon;Andromon
+79.0;Guardromon;GrapLeomon
+79.0;Guardromon;Datamon
+79.0;Guardromon;MetalMamemon
+79.0;Guardromon;CatchMamemon
+80.0;Guardromon (Gold);Grademon
+80.0;Guardromon (Gold);Duramon
+80.0;Guardromon (Gold);Andromon
+80.0;Guardromon (Gold);Rapidmon (Armor)
+80.0;Guardromon (Gold);Magnamon
+81.0;GaoGamon;GrapLeomon
+81.0;GaoGamon;MachGaogamon
+81.0;GaoGamon;WereGarurumon
+82.0;Kabuterimon;MegaKabuterimon
+82.0;Kabuterimon;Cherrymon
+82.0;Kabuterimon;Lilamon
+83.0;ShellNumemon;ShogunGekomon
+83.0;ShellNumemon;BlackKingNumemon
+83.0;ShellNumemon;MegaSeadramon
+84.0;Gargomon;Antylamon
+84.0;Gargomon;WarGrowlmon
+84.0;Gargomon;Rapidmon
+85.0;Garurumon;Zudomon
+85.0;Garurumon;DoruGreymon
+85.0;Garurumon;Panjyamon
+85.0;Garurumon;WereGarurumon
+86.0;Garurumon (Blk);BlueMeramon
+86.0;Garurumon (Blk);MachGaogamon
+86.0;Garurumon (Blk);WereGarurumon (Blk)
+86.0;Garurumon (Blk);Pandamon
+87.0;Kyubimon;Taomon
+87.0;Kyubimon;Monzaemon
+87.0;Kyubimon;LadyDevimon
+88.0;Growlmon;Gigadramon
+88.0;Growlmon;WarGrowlmon
+88.0;Growlmon;MetalGreymon
+88.0;Growlmon;MetalTyrannomon
+88.0;Growlmon;BurningGreymon
+89.0;Kurisarimon;Infermon
+89.0;Kurisarimon;Cyberdramon
+89.0;Kurisarimon;Taomon
+89.0;Kurisarimon;Arcadiamon Ultimate
+90.0;Greymon;SkullGreymon
+90.0;Greymon;Megadramon
+90.0;Greymon;MetalGreymon
+90.0;Greymon;MetalGreymon (Blue)
+91.0;Greymon (Blue);DoruGreymon
+91.0;Greymon (Blue);Knightmon
+91.0;Greymon (Blue);MetalGreymon (Blue)
+91.0;Greymon (Blue);Triceramon
+92.0;Clockmon;Andromon
+92.0;Clockmon;Knightmon
+92.0;Clockmon;Datamon
+92.0;Clockmon;Wisemon
+93.0;Kuwagamon;Okuwamon
+93.0;Kuwagamon;CannonBeemon
+93.0;Kuwagamon;Cherrymon
+94.0;Gekomon;ShogunGekomon
+94.0;Gekomon;Whamon
+94.0;Gekomon;MegaSeadramon
+95.0;Geremon;Etemon
+95.0;Geremon;SuperStarmon
+95.0;Geremon;MetalMamemon
+96.0;Coredramon (Blue);Wingdramon
+96.0;Coredramon (Blue);AeroVeedramon
+96.0;Coredramon (Blue);BlueMeramon
+97.0;Coredramon (Green);Groundramon
+97.0;Coredramon (Green);Triceramon
+97.0;Coredramon (Green);WarGrowlmon
+98.0;GoldNumemon;BlackKingNumemon
+98.0;GoldNumemon;Vademon
+98.0;GoldNumemon;PlatinumNumemon
+99.0;Golemon;Volcanomon
+99.0;Golemon;Meteormon
+99.0;Golemon;Pumpkinmon
+100.0;Cyclonemon;DoruGreymon
+100.0;Cyclonemon;Datamon
+100.0;Cyclonemon;Megadramon
+101.0;Sangloupmon;KendoGarurumon
+101.0;Sangloupmon;Matadormon
+101.0;Sangloupmon;Myotismon
+101.0;Sangloupmon;WereGarurumon (Blk)
+102.0;Sunflowmon;Angewomon
+102.0;Sunflowmon;Lilamon
+102.0;Sunflowmon;Lillymon
+103.0;Seadramon;ShogunGekomon
+103.0;Seadramon;Whamon
+103.0;Seadramon;MegaSeadramon
+103.0;Seadramon;Hisyaryumon
+104.0;Coelamon;Dragomon
+104.0;Coelamon;Andromon
+104.0;Coelamon;MegaSeadramon
+104.0;Coelamon;Hisyaryumon
+105.0;GeoGreymon;Gigadramon
+105.0;GeoGreymon;SkullGreymon
+105.0;GeoGreymon;RizeGreymon
+105.0;GeoGreymon;Groundramon
+106.0;Sukamon;Etemon
+106.0;Sukamon;SuperStarmon
+106.0;Sukamon;Vademon
+107.0;Starmon;SuperStarmon
+107.0;Starmon;Mamemon
+107.0;Starmon;MetalMamemon
+107.0;Starmon;CatchMamemon
+107.0;Starmon;Crescemon
+108.0;Stingmon;Infermon
+108.0;Stingmon;Okuwamon
+108.0;Stingmon;Paildramon
+108.0;Stingmon;Dinobeemon
+109.0;Strikedramon;SaviorHuckmon
+109.0;Strikedramon;Cyberdramon
+109.0;Strikedramon;WereGarurumon
+110.0;Zubaeagermon;KendoGarurumon
+110.0;Zubaeagermon;Duramon
+110.0;Zubaeagermon;Phantomon
+111.0;Socerimon;Antylamon
+111.0;Socerimon;Piximon
+111.0;Socerimon;Wisemon
+112.0;Tankmon;Andromon
+112.0;Tankmon;Gigadramon
+112.0;Tankmon;CannonBeemon
+112.0;Tankmon;Knightmon
+112.0;Tankmon;Volcanomon
+113.0;MudFrigimon;Pandamon
+113.0;MudFrigimon;Meteormon
+113.0;MudFrigimon;Pumpkinmon
+114.0;Tyrannomon;Mamemon
+114.0;Tyrannomon;Megadramon
+114.0;Tyrannomon;MetalGreymon (Blue)
+114.0;Tyrannomon;MetalTyrannomon
+115.0;Gatomon;Angewomon
+115.0;Gatomon;Silphymon
+115.0;Gatomon;Lillymon
+115.0;Gatomon;Pandamon
+116.0;Devimon;Infermon
+116.0;Devimon;Myotismon
+116.0;Devimon;BlueMeramon
+116.0;Devimon;MetalGreymon (Blue)
+116.0;Devimon;SkullSatamon
+117.0;Turuiemon;Antylamon
+117.0;Turuiemon;Cyberdramon
+117.0;Turuiemon;Monzaemon
+118.0;Togemon;Pumpkinmon
+118.0;Togemon;MachGaogamon
+118.0;Togemon;Lillymon
+119.0;Dorugamon;Chirinmon
+119.0;Dorugamon;DoruGreymon
+119.0;Dorugamon;RizeGreymon
+119.0;Dorugamon;Grademon
+120.0;Nanimon;Meteormon
+120.0;Nanimon;SuperStarmon
+120.0;Nanimon;Digitamamon
+121.0;Numemon;Etemon
+121.0;Numemon;BlackKingNumemon
+121.0;Numemon;Monzaemon
+122.0;Birdramon;AeroVeedramon
+122.0;Birdramon;Garudamon
+122.0;Birdramon;Chirinmon
+122.0;Birdramon;Crowmon
+122.0;Birdramon;BurningGreymon
+122.0;Birdramon;HippoGryphonmon
+123.0;BaoHuckmon;KendoGarurumon
+123.0;BaoHuckmon;SaviorHuckmon
+123.0;BaoHuckmon;RizeGreymon
+124.0;Bakemon;Myotismon
+124.0;Bakemon;Pumpkinmon
+124.0;Bakemon;BlueMeramon
+124.0;Bakemon;LadyDevimon
+124.0;Bakemon;Phantomon
+124.0;Bakemon;Matadormon
+125.0;Veedramon;AeroVeedramon
+125.0;Veedramon;Cyberdramon
+125.0;Veedramon;WarGrowlmon
+125.0;Veedramon;MetalTyrannomon
+126.0;Hudiemon;Lillymon
+126.0;Hudiemon;CannonBeemon
+126.0;Hudiemon;Lilamon
+127.0;PlatinumSukamon;Etemon
+127.0;PlatinumSukamon;Vademon
+127.0;PlatinumSukamon;MetalMamemon
+127.0;PlatinumSukamon;CatchMamemon
+128.0;BlackGatomon;Cyberdramon
+128.0;BlackGatomon;Knightmon
+128.0;BlackGatomon;LadyDevimon
+128.0;BlackGatomon;WereGarurumon (Blk)
+129.0;Vegiemon;MegaKabuterimon
+129.0;Vegiemon;Digitamamon
+129.0;Vegiemon;Lilamon
+130.0;Peckmon;Antylamon
+130.0;Peckmon;Piximon
+130.0;Peckmon;Crowmon
+131.0;Meramon;SkullMeramon
+131.0;Meramon;Panjyamon
+131.0;Meramon;BlueMeramon
+131.0;Meramon;Mamemon
+131.0;Meramon;BurningGreymon
+131.0;Meramon;Volcanomon
+132.0;Monochromon;Triceramon
+132.0;Monochromon;SkullGreymon
+132.0;Monochromon;MetalTyrannomon
+133.0;Frigimon;Angewomon
+133.0;Frigimon;Zudomon
+133.0;Frigimon;Monzaemon
+133.0;Frigimon;Crescemon
+134.0;Unimon;HippoGryphonmon
+134.0;Unimon;Piximon
+134.0;Unimon;MagnaAngemon
+135.0;Raptordramon;Grademon
+135.0;Raptordramon;Duramon
+135.0;Raptordramon;Gigadramon
+135.0;Raptordramon;DoruGreymon
+136.0;Raremon;SkullSatamon
+136.0;Raremon;Dragomon
+136.0;Raremon;Phantomon
+136.0;Raremon;BlackKingNumemon
+136.0;Raremon;MetalGreymon (Blue)
+137.0;Leomon;Meteormon
+137.0;Leomon;GrapLeomon
+137.0;Leomon;Panjyamon
+137.0;Leomon;MetalGreymon
+137.0;Leomon;Grademon
+138.0;Lekismon;Crescemon
+138.0;Lekismon;Antylamon
+138.0;Lekismon;MachGaogamon
+139.0;Reppamon;Chirinmon
+139.0;Reppamon;Piximon
+139.0;Reppamon;Rapidmon
+140.0;Waspmon;MegaKabuterimon
+140.0;Waspmon;Okuwamon
+140.0;Waspmon;CannonBeemon
+140.0;Waspmon;Rapidmon
+141.0;MegaKabuterimon;GranKuwagamon
+141.0;MegaKabuterimon;HerculesKabuterimon
+141.0;MegaKabuterimon;Magnadramon
+142.0;Arcadiamon Ultimate;Arcadiamon Mega
+142.0;Arcadiamon Ultimate;Diaboromon
+142.0;Arcadiamon Ultimate;Creepymon
+143.0;Antylamon;Kerpymon (Good)
+143.0;Antylamon;Dianamon
+143.0;Antylamon;Diaboromon
+143.0;Antylamon;Kerpymon (Blk)
+144.0;Andromon;Craniamon
+144.0;Andromon;TigerVespamon
+144.0;Andromon;HiAndromon
+145.0;Meteormon;Ebemon
+145.0;Meteormon;Dianamon
+145.0;Meteormon;MetalEtemon
+146.0;Infermon;VenomMyotismon
+146.0;Infermon;Diaboromon
+146.0;Infermon;Beelzemon
+146.0;Infermon;Arcadiamon Mega
+147.0;Myotismon;VenomMyotismon
+147.0;Myotismon;Barbamon
+147.0;Myotismon;Piedmon
+147.0;Myotismon;Arcadiamon Mega
+147.0;Myotismon;GranDracmon
+148.0;Wingdramon;Slayerdramon
+148.0;Wingdramon;UlforceVeedramon
+148.0;Wingdramon;Dynasmon
+149.0;BurningGreymon;KaiserGreymon
+150.0;AeroVeedramon;UlforceVeedramon
+150.0;AeroVeedramon;Dynasmon
+150.0;AeroVeedramon;Ravemon
+150.0;AeroVeedramon;Goldramon
+151.0;Etemon;Piedmon
+151.0;Etemon;PlatinumNumemon
+151.0;Etemon;MetalEtemon
+151.0;Etemon;KingEtemon
+151.0;Etemon;PileVolcamon
+152.0;Angewomon;Ophanimon
+152.0;Angewomon;Magnadramon
+152.0;Angewomon;Mastemon
+152.0;Angewomon;Valkyrimon
+153.0;Okuwamon;GranKuwagamon
+153.0;Okuwamon;Diaboromon
+153.0;Okuwamon;HerculesKabuterimon
+154.0;Garudamon;Justimon
+154.0;Garudamon;Hououmon
+154.0;Garudamon;Ravemon
+154.0;Garudamon;Varodurumon
+154.0;Garudamon;Gryphonmon
+155.0;KendoGarurumon;MagnaGarurumon
+156.0;Gigadramon;GroundLocomon
+156.0;Gigadramon;Machinedramon
+156.0;Gigadramon;MetalSeadramon
+156.0;Gigadramon;Darkdramon
+156.0;Gigadramon;Dorugoramon
+156.0;Gigadramon;Megidramon
+157.0;CatchMamemon;Justimon
+157.0;CatchMamemon;Puppetmon
+157.0;CatchMamemon;PrinceMamemon
+158.0;CannonBeemon;GroundLocomon
+158.0;CannonBeemon;MegaGargomon
+158.0;CannonBeemon;TigerVespamon
+159.0;Groundramon;Breakdramon
+159.0;Groundramon;Megidramon
+159.0;Groundramon;Vikemon
+160.0;GrapLeomon;SaberLeomon
+160.0;GrapLeomon;Leopardmon
+160.0;GrapLeomon;BanchoLeomon
+160.0;GrapLeomon;PileVolcamon
+161.0;Grademon;Durandamon
+161.0;Grademon;Dorugamon
+161.0;Grademon;Alphamon
+161.0;Grademon;TigerVespamon
+161.0;Grademon;Ouryumon
+162.0;Crescemon;Kerpymon (Good)
+162.0;Crescemon;Kentaurosmon
+162.0;Crescemon;Dianamon
+163.0;Cyberdramon;Alphamon
+163.0;Cyberdramon;Justimon
+163.0;Cyberdramon;Titamon
+164.0;Shakkoumon;Vikemon
+164.0;Shakkoumon;ChaosGallantmon
+164.0;Shakkoumon;Kerpymon (Good)
+165.0;Cherrymon;Kuzuhamon
+165.0;Cherrymon;GranKuwagamon
+165.0;Cherrymon;Puppetmon
+166.0;Silphymon;Sakuyamon
+166.0;Silphymon;Dynasmon
+166.0;Silphymon;Hououmon
+166.0;Silphymon;Valkyrimon
+166.0;Silphymon;Gryphonmon
+167.0;SuperStarmon;Gankoomon
+167.0;SuperStarmon;Justimon
+167.0;SuperStarmon;PlatinumNumemon
+168.0;SkullGreymon;ShineGreymon
+168.0;SkullGreymon;Titamon
+168.0;SkullGreymon;Creepymon
+169.0;SkullSatamon;GranDracmon
+169.0;SkullSatamon;Diaboromon
+169.0;SkullSatamon;Creepymon
+170.0;Zudomon;Vikemon
+170.0;Zudomon;MarineAngemon
+170.0;Zudomon;MetalGarurumon
+170.0;Zudomon;Plesiomon
+171.0;SaviorHuckmon;Slayerdramon
+171.0;SaviorHuckmon;Valkyrimon
+171.0;SaviorHuckmon;Jesmon
+172.0;Taomon;Kuzuhamon
+172.0;Taomon;Sakuyamon
+172.0;Taomon;Dianamon
+173.0;Dragomon;Neptunemon
+173.0;Dragomon;Ebemon
+173.0;Dragomon;Leviamon
+174.0;Chirinmon;Kentaurosmon
+174.0;Chirinmon;Seraphimon
+174.0;Chirinmon;MetalGarurumon
+175.0;Dinobeemon;Imperialdramon DM
+175.0;Dinobeemon;GranKuwagamon
+176.0;Digitamamon;Titamon
+176.0;Digitamamon;Belphemon SM
+176.0;Digitamamon;Minervamon
+177.0;SkullMeramon;Gankoomon
+177.0;SkullMeramon;Beelzemon
+177.0;SkullMeramon;Boltmon
+178.0;Duramon;Durandamon
+178.0;Duramon;TigerVespamon
+178.0;Duramon;Jesmon
+179.0;ShogunGekomon;Vikemon
+179.0;ShogunGekomon;Plesiomon
+179.0;ShogunGekomon;Leviamon
+179.0;ShogunGekomon;KingEtemon
+180.0;Triceramon;Breakdramon
+180.0;Triceramon;GranKuwagamon
+180.0;Triceramon;SaberLeomon
+181.0;DoruGreymon;Alphamon
+181.0;DoruGreymon;Kentaurosmon
+181.0;DoruGreymon;Dorugoramon
+182.0;Knightmon;Craniamon
+182.0;Knightmon;Leopardmon
+182.0;Knightmon;Crusadermon
+182.0;Knightmon;Durandamon
+183.0;Datamon;GroundLocomon
+183.0;Datamon;Machinedramon
+183.0;Datamon;MetalGarurumon (Blk)
+184.0;Paildramon;Imperialdramon DM
+185.0;Panjyamon;SaberLeomon
+185.0;Panjyamon;BanchoLeomon
+185.0;Panjyamon;MirageGaogamon
+186.0;Pandamon;KingEtemon
+186.0;Pandamon;Justimon
+186.0;Pandamon;BanchoLeomon
+187.0;Pumpkinmon;Puppetmon
+187.0;Pumpkinmon;Boltmon
+187.0;Pumpkinmon;Rosemon
+188.0;Piximon;Ophanimon
+188.0;Piximon;Hououmon
+188.0;Piximon;MarineAngemon
+189.0;HippoGryphonmon;Varodurumon
+189.0;HippoGryphonmon;Gryphonmon
+189.0;HippoGryphonmon;Seraphimon
+190.0;Phantomon;VenomMyotismon
+190.0;Phantomon;Titamon
+190.0;Phantomon;Barbamon
+191.0;BlackKingNumemon;PlatinumNumemon
+191.0;BlackKingNumemon;PrinceMamemon
+191.0;BlackKingNumemon;MetalEtemon
+192.0;BlueMeramon;Creepymon
+192.0;BlueMeramon;Barbamon
+192.0;BlueMeramon;Boltmon
+192.0;BlueMeramon;Darkdramon
+193.0;Vademon;Ebemon
+193.0;Vademon;HiAndromon
+193.0;Vademon;HerculesKabuterimon
+194.0;Whamon;Plesiomon
+194.0;Whamon;MarineAngemon
+194.0;Whamon;MetalSeadramon
+194.0;Whamon;Neptunemon
+195.0;MagnaAngemon;ShineGreymon
+195.0;MagnaAngemon;Seraphimon
+195.0;MagnaAngemon;Crusadermon
+195.0;MagnaAngemon;Valkyrimon
+195.0;MagnaAngemon;Goldramon
+196.0;Volcanomon;PileVolcamon
+196.0;Volcanomon;Gankoomon
+196.0;Volcanomon;MetalEtemon
+197.0;Matadormon;GranDracmon
+197.0;Matadormon;VenomMyotismon
+197.0;Matadormon;Piedmon
+198.0;MachGaogamon;MegaGargomon
+198.0;MachGaogamon;BanchoLeomon
+198.0;MachGaogamon;MirageGaogamon
+198.0;MachGaogamon;Merukimon
+199.0;Mamemon;WarGreymon
+199.0;Mamemon;Puppetmon
+199.0;Mamemon;PrinceMamemon
+200.0;MegaSeadramon;Plesiomon
+200.0;MegaSeadramon;MetalSeadramon
+200.0;MegaSeadramon;Leviamon
+200.0;MegaSeadramon;Neptunemon
+201.0;Megadramon;UlforceVeedramon
+201.0;Megadramon;BlackWarGreymon
+201.0;Megadramon;Machinedramon
+201.0;Megadramon;Goldramon
+201.0;Megadramon;Megidramon
+202.0;WarGrowlmon;ChaosGallantmon
+202.0;WarGrowlmon;Gallantmon
+202.0;WarGrowlmon;RustTyranomon
+202.0;WarGrowlmon;Darkdramon
+202.0;WarGrowlmon;Megidramon
+203.0;MetalGreymon;WarGreymon
+203.0;MetalGreymon;Gaiomon
+203.0;MetalGreymon;RustTyranomon
+204.0;MetalGreymon (Blue);WarGreymon
+204.0;MetalGreymon (Blue);Gaiomon
+204.0;MetalGreymon (Blue);BlackWarGreymon
+204.0;MetalGreymon (Blue);Kerpymon (Blk)
+205.0;MetalTyrannomon;BlackWarGreymon
+205.0;MetalTyrannomon;Gallantmon
+205.0;MetalTyrannomon;RustTyranomon
+205.0;MetalTyrannomon;Breakdramon
+206.0;MetalMamemon;Ebemon
+206.0;MetalMamemon;HiAndromon
+206.0;MetalMamemon;PrinceMamemon
+207.0;Monzaemon;SaberLeomon
+207.0;Monzaemon;Sakuyamon
+207.0;Monzaemon;Minervamon
+208.0;Crowmon;Kuzuhamon
+208.0;Crowmon;Minervamon
+208.0;Crowmon;Ravemon
+208.0;Crowmon;Varodurumon
+208.0;Crowmon;Ouryumon
+209.0;RizeGreymon;Gaiomon
+209.0;RizeGreymon;ShineGreymon
+209.0;RizeGreymon;Slayerdramon
+210.0;Lilamon;Lilithmon
+210.0;Lilamon;Rosemon
+210.0;Lilamon;Lotosmon
+211.0;Rapidmon;MegaGargomon
+211.0;Rapidmon;TigerVespamon
+211.0;Rapidmon;MetalGarurumon (Blk)
+212.0;Lillymon;Magnadramon
+212.0;Lillymon;Rosemon
+212.0;Lillymon;Lotosmon
+213.0;Lucemon FM;Lucemon SM
+214.0;LadyDevimon;Mastemon
+214.0;LadyDevimon;Lilithmon
+214.0;LadyDevimon;Lotosmon
+215.0;WereGarurumon;MirageGaogamon
+215.0;WereGarurumon;MetalGarurumon
+215.0;WereGarurumon;MetalGarurumon (Blk)
+216.0;WereGarurumon (Blk);BanchoLeomon
+216.0;WereGarurumon (Blk);Minervamon
+216.0;WereGarurumon (Blk);MetalGarurumon (Blk)
+216.0;WereGarurumon (Blk);Merukimon
+217.0;Wisemon;VenomMyotismon
+217.0;Wisemon;Piedmon
+217.0;Wisemon;Belphemon SM
+218.0;Arcadiamon Mega;Arcadiamon Ultra
+219.0;Alphamon;Alphamon Ouryuken
+220.0;UlforceVeedramon;
+221.0;Ebemon;
+222.0;Imperialdramon DM;Imperialdramon PM
+222.0;Imperialdramon DM;Imperialdramon FM
+223.0;Imperialdramon FM;Imperialdramon DM
+224.0;Vikemon;
+225.0;Valkyrimon;
+226.0;Varodurumon;Chaosmon VA
+227.0;VenomMyotismon;
+228.0;WarGreymon;Omnimon
+229.0;Ophanimon;
+230.0;Gaiomon;
+231.0;KaiserGreymon;Susanomon
+232.0;ChaosGallantmon;
+233.0;Chaosdramon;
+234.0;Gankoomon;
+235.0;KingEtemon;
+236.0;Kuzuhamon;
+237.0;GranKuwagamon;
+238.0;GranDracmon;
+239.0;GroundLocomon;
+240.0;Gryphonmon;
+241.0;Craniamon;
+242.0;Kerpymon (Blk);
+243.0;Kerpymon (Good);
+244.0;Goldramon;
+245.0;SaberLeomon;
+246.0;Sakuyamon;
+247.0;Jesmon;
+248.0;ShineGreymon;ShineGreymon BM
+249.0;ShineGreymon BM;
+250.0;Justimon;
+251.0;Kentaurosmon;
+252.0;Slayerdramon;Examon
+253.0;Seraphimon;
+254.0;MegaGargomon;
+255.0;Darkdramon;Chaosmon
+256.0;TigerVespamon;
+257.0;Titamon;
+258.0;TyrantKabuterimon;
+259.0;Dianamon;
+260.0;Diaboromon;Armageddemon
+261.0;Creepymon;
+262.0;Gallantmon;Gallantmon CM
+263.0;Dynasmon;
+264.0;Durandamon;
+265.0;Leopardmon;Leopardmon LM
+266.0;Leopardmon LM;Leopardmon
+267.0;Dorugoramon;
+268.0;Neptunemon;
+269.0;HiAndromon;
+270.0;PileVolcamon;
+271.0;Barbamon;
+272.0;BanchoLeomon;Chaosmon
+272.0;BanchoLeomon;Chaosmon VA
+273.0;Piedmon;Apocalymon
+274.0;Puppetmon;Apocalymon
+275.0;PlatinumNumemon;
+276.0;BlackWarGreymon;Omnimon Zwart
+277.0;PrinceMamemon;
+278.0;Breakdramon;Examon
+279.0;Plesiomon;
+280.0;HerculesKabuterimon;TyrantKabuterimon
+281.0;Beelzemon;Beelzemon BM
+282.0;Beelzemon BM;
+283.0;Belphemon SM;Belphemon RM
+284.0;Hououmon;
+285.0;Magnadramon;
+286.0;Boltmon;
+287.0;MagnaGarurumon;MagnaGarurumon (SV)
+287.0;MagnaGarurumon;Susanomon
+288.0;MagnaGarurumon (SV);MagnaGarurumon
+289.0;Mastemon;
+290.0;MarineAngemon;
+291.0;Minervamon;
+292.0;MirageGaogamon;MirageGaogamon BM
+293.0;MirageGaogamon BM;
+294.0;Machinedramon;Chaosdramon
+294.0;Machinedramon;Apocalymon
+295.0;Megidramon;
+296.0;MetalEtemon;
+297.0;MetalGarurumon;Omnimon
+298.0;MetalGarurumon (Blk);Omnimon Zwart
+299.0;MetalSeadramon;Apocalymon
+300.0;Merukimon;
+301.0;RustTyranomon;
+302.0;Leviamon;
+303.0;Lilithmon;
+304.0;Ravemon;Ravemon BM
+305.0;Ravemon BM;
+306.0;Crusadermon;
+307.0;Rosemon;Rosemon BM
+308.0;Rosemon BM;
+309.0;Lotosmon;
+310.0;Armageddemon;
+311.0;Arcadiamon Ultra;
+312.0;Alphamon Ouryuken;
+313.0;Imperialdramon PM;
+314.0;Examon;
+315.0;Omnimon;
+316.0;Omnimon Zwart;
+317.0;Chaosmon;
+318.0;Chaosmon VA;
+319.0;Susanomon;
+320.0;Gallantmon CM;
+321.0;Belphemon RM;
+322.0;Lucemon SM;
+323.0;Flamedramon;
+324.0;Magnamon;
+325.0;Rapidmon (Armor);
+326.0;Shoutmon;OmniShoutmon
+327.0;OmniShoutmon;
+328.0;Ryudamon;Ginryumon
+328.0;Ryudamon;Raptordramon
+328.0;Ryudamon;Reppamon
+329.0;Ginryumon;Hisyaryumon
+329.0;Ginryumon;CannonBeemon
+329.0;Ginryumon;MegaSeadramon
+330.0;Hisyaryumon;Ouryumon
+330.0;Hisyaryumon;Gaiomon
+330.0;Hisyaryumon;Goldramon
+330.0;Hisyaryumon;Minervamon
+331.0;Ouryumon;Alphamon Ouryuken
+332.0;Apocalymon;
+333.0;Sistermon Blanc;Sistermon B (Awake.)
+333.0;Sistermon Blanc;Sistermon Ciel
+333.0;Sistermon Blanc;Gargomon
+333.0;Sistermon Blanc;Lekismon
+334.0;Sistermon B (Awake.);
+335.0;Sistermon Ciel;Sistermon C (Awake.)
+335.0;Sistermon Ciel;Pandamon
+335.0;Sistermon Ciel;LadyDevimon
+336.0;Sistermon C (Awake.);
+337.0;Alphamon NX;
+338.0;Crusadermon NX;
+339.0;Leopardmon NX;
+340.0;Omnimon NX;
+341.0;Gallantmon NX;
